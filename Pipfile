@@ -19,6 +19,8 @@ alembic = "*"
 Flask-Migrate = "*"
 Flask-Script = "*"
 Flask-Login = "*"
+flask-restful = "*"
+
 [dev-packages]
 
 [requires]
